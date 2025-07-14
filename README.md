@@ -10,9 +10,9 @@ This repository contains simple Embedded C programs for the STM8S microcontrolle
 
 ## Programs
 
-- **LED Blinking on All GPIO Pins** – Implementation of LED blinking by toggling all GPIO pins (Ports A, B, C, and D) using the STM8S103F3P6TR microcontroller.
+- **LED Blinking** – Implementation of LED blinking by toggling all GPIO pins (Ports A, B, C, and D) using the STM8S103F3P6TR microcontroller.
 
-- **16x2 LCD Interfacing (4-bit Mode)** – Implementation of 16x2 character LCD interfacing with STM8S103F3P6TR using 4-bit mode. The LCD is connected to GPIO pins across Ports B and C, and displays the message "HELLO WORLD" on startup.
+- **HELLO WORLD** – Implementation of 16x2 character LCD interfacing with STM8S103F3P6TR using 4-bit mode. The LCD is connected to GPIO pins across Ports B and C, and displays the message "HELLO WORLD" on startup.
 
 
 
