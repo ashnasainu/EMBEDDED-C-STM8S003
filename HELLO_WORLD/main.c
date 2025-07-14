@@ -1,10 +1,10 @@
- /*LCD --> STM8s
- * LCD_RS --> PA1
- * LCD_EN --> PA2
- * LCD_DB4 --> PD1
- * LCD_DB5 --> PD2
- * LCD_DB6 --> PD3
- * LCD_DB7 --> PD4
+ /*LCD    -->  STM8s
+ * LCD_RS -->  PC7
+ * LCD_EN -->  PC6
+ * LCD_DB4 --> PC5
+ * LCD_DB5 --> PC4
+ * LCD_DB6 --> PC3
+ * LCD_DB7 --> PB4
  */
  
  #define LCD_RS     GPIOC, GPIO_PIN_7
